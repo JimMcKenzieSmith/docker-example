@@ -1,5 +1,3 @@
-FROM php:7.2-cli
-COPY . /usr/src/myapp
-WORKDIR /usr/src/myapp
-CMD [ "php", "./index.php" ]
-EXPOSE 3001
+FROM php:7.2-apache
+COPY src/ /var/www/html/
+EXPOSE 80
