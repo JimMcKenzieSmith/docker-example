@@ -1,4 +1,4 @@
-# Docker Example on Mac with PHP 7.2 container
+# A Simple Docker Example on Mac with a PHP 7.2 / Apache container
 
 ## Install and run Docker Desktop for Mac
 Download it here: https://hub.docker.com/editions/community/docker-ce-desktop-mac
