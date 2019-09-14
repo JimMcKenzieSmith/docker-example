@@ -3,7 +3,7 @@
 ## Install and run Docker Desktop for Mac
 Download it here: https://hub.docker.com/editions/community/docker-ce-desktop-mac
 
-
+## Build and run it
 ```bash
 # build it
 docker build -t hello-docker .
